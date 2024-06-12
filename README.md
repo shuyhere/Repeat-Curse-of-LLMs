@@ -1,1 +1,1 @@
-# Repeat-Curse-of-LLMs
+# Repeat Curse of LLMs
